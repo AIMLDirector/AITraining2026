@@ -20,5 +20,4 @@ def f1():
     print("printing inside the function for name2:", Name2)
 
 
-f()
-# print(Name2)
+

@@ -1,0 +1,11 @@
+Variable are container for storing the values of different data types
+
+Name for the Variable
+
+Name_team = 20
+Name1 = "kumar"
+
+N
+are
+s1111
+
