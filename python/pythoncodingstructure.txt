@@ -1,0 +1,67 @@
+# python coding structure
+
+1.interpreter
+2 Variable information
+3 function class, loop 
+4 condition
+5 main code exectuion 
+
+#!/opt/anaconda3/bin/python
+
+a =1 
+b= "test'
+
+# This class code is to validate the data 
+class test():
+    pass
+
+#This function to do the arthimetic calculation
+def f1():
+    pass
+
+
+if a = I:
+    f1()
+else:
+    f2()
+
+
+main()
+  input :
+
+  ouput:
+ vendor module
+ module - repeated task , reusable task , store function 
+ 1. connecting to the product( server,storage, network, db, application )
+ 2 . step , set of commands 
+ 3 . option
+ 4. output /log  collect
+
+ inbuild module( language)  os, math, sys, 
+ vended module  -- 
+ custom module  create the code 
+
+
+db: oracle, postgressql, mongodb, mysql , redis
+server:
+storage,
+cloud:
+
+language: python, java, javascript, .net, go 
+ function , 
+ class 
+template
+ ssh -i key username@server1
+action 
+ ssh -i temp.key  kumar@aws-cal
+
+ mongodb module -- sql==1.0.0 , pandas==2.0.0
+
+ pip install mongodb 
+
+ sql, pandas, mongodb
+
+
+postgresql  -- sql==2.0.0 , pandas=3.0.0 
+
+two different environment ( virtual environment )
