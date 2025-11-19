@@ -1,0 +1,31 @@
+try:
+  Input_num = input("enter the number:")
+  result = 10/Input_num
+except ValueError:
+    print("input value is not a number please provide a number as input")
+
+try:
+    action
+else:
+    action
+
+try:
+    action
+except:
+    action
+
+try:
+    action
+except:
+    action
+else:
+    action
+
+try:
+    action
+except:
+    action
+finally:
+    action 
+else:
+    action

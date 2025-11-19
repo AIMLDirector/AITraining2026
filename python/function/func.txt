@@ -1,0 +1,17 @@
+def func1(name,i,f,c):
+    action
+
+name = "kumar" 
+
+func1("kumar",1,1.0,1.0j)
+func1("kumar1",2,1.0,1.0j)
+
+
+
+
+def copy():
+    cp -p /user/premkumar/sample.log /var/tmp/
+    print("copying the file is completed")
+
+
+copy()
