@@ -13,3 +13,6 @@ for i in word_sentence1:
 
 print(filtered_sentence1)
 # filtered_sentence2 = [i for i in word_sentence2 if i not in stop_words]
+
+
+sentence1 = "This process eliminates the need to manually create and populate the .gitignore file. Ensuring that common project-specific files and folders are automatically excluded from Git tracking."

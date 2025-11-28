@@ -1,0 +1,49 @@
+class Master:
+    def __init__(self, name="kumar", address="hyd"):  # initalize all the variables in the system on the starting of the code 
+        self.name = name
+        self.address = address
+
+    def display(self):
+        print("Name:", self.name)
+        print("Address:", self.address)
+
+    def show(self):
+        print("Name from show function ", self.name)
+        print("Address from show function ", self.address)
+
+    def show1(self):
+        print("Name in show1 function ", self.name)
+
+class client(Master):  # inheriting the Master class to the client class
+    def __init__(self,name,address, age=25):
+        super().__init__(name,address)
+        self.age = age  # calling the constructor of the Master class to initialize the variables
+
+    def show_client(self):
+        print("This is client class method")
+        print("Age:", self.age)
+        print("Name from client class:", self.name)  # accessing the name variable from the Master class
+
+
+c1 = Master() # creating object for the Master class . This entire code in the Master class will be loaded
+c1.show1()
+c1.show()
+c1.display()
+
+c2 = Master("arun","Bangalore") # creating another object for the Master class . This entire code in the Master class will be loaded again
+
+c2.show1()
+
+
+# c3 = client(30) 
+# c3.show_client() 
+
+c4 = client("arun","hyd",28)    
+c4.show_client()
+
+
+
+
+
+
+
