@@ -1,0 +1,35 @@
+Variable are container for storing the values of different data types
+
+Name for the Variable
+
+Name_team = 20
+Name1 = "kumar"
+
+N
+are
+s1111
+
+Numerical Data Types = int, float, complex
+Text data types = str
+sequentical data types = list, tuple, range
+Dictionary data types = dict
+
+Set data types: Set
+Boolen data types : Bool
+Binary data types: Bytes, memoryview
+
+int, float, str, list, range
+
+Dictionary = {name : kumar, Address: HSR, working : AI }
+ xml,json & yaml  -- structure 
+userinformation
+userId: 1
+name: anand
+join: 14th Jan
+designation: engineer
+salary: 10000
+
+userId: 2
+name: arun
+join: 14th Jan
+designation: engineer
