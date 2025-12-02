@@ -1,0 +1,5 @@
+Corpus: It is a large and structured set of text documents, used for training or analyzing language models. It can range from a collection of articles, tweets, emails, or any other form of textual data.
+Vector: It is the numerical representation of text data that enables machines to process and understand language.
+Model: It is a machine learning or statistical algorithm that learns from data to make predictions or extract patterns.
+Topic Modelling: It is an unsupervised learning technique used to discover abstract topics within a collection of documents. It assumes that each document is a mixture of various topics, and each topic is a mixture of words.
+Topic: It is a collection of words that frequently appear together and represent a coherent idea or subject. For instance, words like "doctor," "hospital," and "medicine" might form a health-related topic.

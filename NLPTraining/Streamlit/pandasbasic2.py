@@ -25,3 +25,9 @@ if st.checkbox("Remove the row with null values"):
     
     cleaned_file = df.to_csv(index=False).encode('utf-8')
     st.download_button( label = "download the csv file", data = cleaned_file, file_name = 'cleaned_data.csv', mime = 'text/csv' )
+
+# df = pd.read_csv(uploaded_file)
+# df = df.drop_duplicates()
+# df = df.dropna()
+# cleaned_file = df.to_csv(index=False).encode('utf-8')
+# st.download_button( label = "download the csv file", data = cleaned_file, file_name = 'cleaned_data.csv', mime = 'text/csv' )
