@@ -19,8 +19,7 @@ data = pd.read_csv("SMSSpamCollection",
                    encoding="latin-1")
 
 data.columns = ['label', 'text']
-print(data.head())
-print(data.columns)
+
 
 # Preprocessing
 lemmatizer = WordNetLemmatizer()

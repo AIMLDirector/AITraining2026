@@ -1,0 +1,85 @@
+i am learning python - [ 1 343422 10 20 ]
+
+a 00
+b 01
+c 10
+to - 11
+an - 110
+binary encoding -- 
+ one hot encoding 
+
+i am learning python    32 * 32 , 64 * 64 128 * 128 
+and also learning llm 
+
+[1 0 0 0
+ 0 1 0 0
+ 0 0 1 0 
+ 0 0 0 1 ]   4 *4 array 
+
+
+ [111 10 01 11  python i am learning 
+ ]
+
+ vectoization -- 
+ i am learning python  -- learning -- i, am , python 
+                          python -- i, am learning 
+
+                          learning python -- i , am 
+                          i am <mask>learning/swimming/liking/ python 
+                          i am playing/running/learning/working  python
+                           i am learning python/java/
+                           working on python 
+                           learning python 
+
+i am learning java /.net/
+ 
+ python   1.333   1.333 === 1.344  = 0.01  -- close match 
+ java 1.34
+ .net  1.35      1.333 == 7.4 == 6.9 -- no close match 
+
+sample  7.4 
+
+embedding  -- gen AI 
+
+
+how to reframe the sentence in a meaning information 
+
+i am happy with my learnig  --  happy learning 
+
+
+
+
+how to learning python ? 
+
+
+learning and python 
+
+python 
+
+learning python 
+
+
+coding topic
+
+
+
+learning == 1234, 110,  [3 *3 ] ,  [ 120 * 120 ]
+learn = 
+learned 
+
+encoding / vectoization/embedding -- 15 years 
+
+vector search : 
+
+cosine similarity /correlation similarity 
+euclidean distance 
+
+
+i am learning python 
+
+learning - vector- similar word are present 
+python - vector --  similar word it is present in the storage space 
+
+vector -- word - grouping( relationship with the word) and ranking - display in the screen 
+
+vector db 
