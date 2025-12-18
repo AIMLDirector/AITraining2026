@@ -1,0 +1,61 @@
+the model learn from labelled data is called supervised learning  - 
+CSv, excel , db , image 
+form - collecting the feedback --  classification  one time work or the static data you are going to analyse which is having the lable we work with classification method 
+1 customer feedback
+2 medical diagnosistics 
+3 spam detection 
+3 image classification ( cat/dog/human/tree)
+4 sale report 
+
+regression method - Data feed is going to be continuous and we need to learn from the data then we go with regression learning method  
+
+The model learn from unlabeled data is called unsupervised learning
+1 word document , pdf, application log( sup/unsup , image , video )
+
+raw data --> categories the data --> cleaning of the unwanted information, remove the noise, group the data, meanining data we should consider 
+
+group and segregate the data -- unsupervised learning
+
+regression( sup/unsup ) - prediction 
+1 random images
+2 price prediction( assumption may or may not happen )
+3 weather forecasting ( temp 60 % it will happe 40 % it will not happen )
+4 sale forecasting -- plan 
+
+data i am not able to understand we needed model help to segregate the data -- clustering method ( unsupervised) 
+
+
+unsupervised learning - clustering/group the data 
+
+1 customer segmentation - religion, age, like and dislike , organization 
+2 anomaly detection - abnormal activity, rare information  app - 30 % ( normal ) - 90 %( abnormal ) 
+3 market sale grouping ( product association or product group purchase ) - festival ( sweet, crac, dress ) -- ecommerce website , kids( 1, 2,3,)
+
+20 % - assumption , experience, past learning -- data -- success
+ 
+ 50 to 60 % -- correct - 40 % -- negative impact -- 
+
+machine learning and gen AI  -- model or coding   - 80 % failure 
+ 1 experience 
+ 2 domain knowledge   - 40 % 
+
+ 1,2,3,4 -- which product is going to meet my req ? 
+  quick decision -- failed on the use case 
+   
+    3 months --  sale is going up by 5 %  -  product  ? ( Nov to Jan )  ( sept - nov)  ( jan to mar)
+    3 month -- down by 20 %  -- 
+
+Last 2 year, months , group by month  -- more the valid information u will get 
+
+    1 seasonal
+    2 one time purchase purchase
+    3 festival 
+ 
+ 
+ AI -- product is having quality , is it realy meating my need , organization transformation 
+
+ microsoft -- quality -- (pre-sale - vendor management ) -- 55- 60 % ( simple to use, comfortability, brand name , usabality )  - product grouping - ( 3 to 5 microsoft  ) vendor -- 
+ oracle -- 80 % 
+
+ mac -- 2 % 
+ linux - 4 to 5 % 

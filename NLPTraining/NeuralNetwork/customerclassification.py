@@ -7,7 +7,7 @@
 # Used Embedding + Dense layers (multi-class classification).
 # Trained with sparse_categorical_crossentropy since labels are integers (0,1,2).
 # Predictions return a class index (argmax) which maps back to intent.
-
+#pip install  tensorflow tensorflow-macos tensorflow-metal
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
