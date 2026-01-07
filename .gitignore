@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 LLMfolder/
+langchainvenv/
 # C extensions
 *.so
 llmvenvold/

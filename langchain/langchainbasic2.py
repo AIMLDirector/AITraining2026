@@ -9,11 +9,11 @@ load_dotenv()
 
 # 1. Instantiate the Model
 # Ensure OPENAI_API_KEY is set in your environment
-model = ChatOpenAI(model="gpt-4o-mini", temperature=0.7)
+model = ChatOpenAI(model="gpt-4o-mini", temperature=0.7, max_tokens=200, streaming=True)
 
 # 2. Define the Prompt Template
 prompt = ChatPromptTemplate.from_messages([
-    ("system", "You are a helpful assistant that translates English to French."),
+    ("system", "You are a helpful assistant that translates English to French, Your primary objective is to answer questions accurately without compromising user privacy"),
     ("user", "{question}")
 ])
 

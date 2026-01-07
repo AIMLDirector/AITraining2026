@@ -8,7 +8,7 @@ load_dotenv()
 
 # 1. Instantiate the Model
 # We use a reliable, fast model
-model = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.7)
+model = ChatOpenAI(model="gpt-3.5-turbo", temperature=0, max_tokens=150)
 
 # 2. Define a Simple Prompt Template
 # The template takes an input variable named "topic"
@@ -29,3 +29,6 @@ response = chain.invoke({"topic": topic_input})
 print(f"Topic: {topic_input}")
 print("-" * 20)
 print(response.content)
+print("-" * 20)
+print(response)
+print("-" * 20)

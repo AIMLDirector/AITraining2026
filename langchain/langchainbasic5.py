@@ -13,7 +13,7 @@ class ContactInfo(BaseModel):
     Structured information about a person's contact details.
     """
     name: str = Field(description="The full name of the person.")
-    phone_number: str = Field(description="Their primary phone number.")
+    phone_number: str = Field(description="Their primary phone number")
     email_address: str = Field(description="Their primary email address.")
     
     # You can add validation logic right in the Pydantic model if needed
