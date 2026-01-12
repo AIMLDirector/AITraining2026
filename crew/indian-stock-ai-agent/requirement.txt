@@ -1,0 +1,4 @@
+crewai
+yfinance
+python-dotenv
+openai
